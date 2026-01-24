@@ -58,15 +58,15 @@ What do users feel about apps?
 
 ## 🛠️ Technologies Used (important for recruiters)
 
-** Pandas & NumPy → data cleaning & feature engineering
+- **Pandas & NumPy → data cleaning & feature engineering
 
-** NLTK (VADER) → sentiment analysis on reviews
+- **NLTK (VADER) → sentiment analysis on reviews
 
-** Plotly → interactive visualizations
+- **Plotly → interactive visualizations
 
-** HTML + CSS → dashboard generation
+- **HTML + CSS → dashboard generation
 
-** Machine Learning concepts (feature engineering, metrics knowledge)
+- **Machine Learning concepts (feature engineering, metrics knowledge)
 
 
 
