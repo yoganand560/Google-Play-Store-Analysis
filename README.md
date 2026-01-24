@@ -9,7 +9,7 @@
 
 
 
-🔍 What this project is (in simple words)
+## 🔍 What this project is (in simple words)
 
 This project is a Google Play Store Data Analytics & Visualization Dashboard :
 
@@ -25,7 +25,7 @@ Automatically create an HTML analytics dashboard (no manual plotting)
 
 👉 This is Data Analyst + ML + Visualization work combined.
 
-🧠 What problem does this project solve?
+## 🧠 What problem does this project solve?
 Problem:
 
 Raw Play Store data is huge, messy, and hard to understand.
@@ -52,19 +52,17 @@ Do frequent updates improve ratings?
 
 What do users feel about apps?
 
-🛠️ Technologies Used (important for recruiters)
+## 🛠️ Technologies Used (important for recruiters)
 
-Python
+** Pandas & NumPy → data cleaning & feature engineering
 
-Pandas & NumPy → data cleaning & feature engineering
+** NLTK (VADER) → sentiment analysis on reviews
 
-NLTK (VADER) → sentiment analysis on reviews
+** Plotly → interactive visualizations
 
-Plotly → interactive visualizations
+** HTML + CSS → dashboard generation
 
-HTML + CSS → dashboard generation
-
-Machine Learning concepts (feature engineering, metrics knowledge)
+** Machine Learning concepts (feature engineering, metrics knowledge)
 
 
 
