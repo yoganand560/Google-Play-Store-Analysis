@@ -32,6 +32,10 @@ Raw Play Store data is huge, messy, and hard to understand.
 
 link🖇️:https://github.com/vaish-vkb/Google-Play-Store-Analytics/blob/main/Play%20Store%20Data.csv
 
+** Play Store Data.csv:🖇️ https://github.com/7c4171e0-0e97-428f-8f9d-8e1289d3eaec
+
+** User Reviews.csv :🖇️ https://github.com/07e5536f-ccbd-4d32-959d-43ab51cb2917
+
 Solution:
 
 This project:
